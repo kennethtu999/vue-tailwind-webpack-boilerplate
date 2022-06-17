@@ -14,7 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "vue": "^3.2.31"
+    "vue": "^3.2.31",
+    "vue-router": "4"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
